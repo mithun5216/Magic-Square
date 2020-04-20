@@ -1,0 +1,12 @@
+C:\Users\ROMAN\Documents\SharpDevelop Projects\demo\demo\bin\Debug\demo.exe.config
+C:\Users\ROMAN\Documents\SharpDevelop Projects\demo\demo\bin\Debug\demo.exe
+C:\Users\ROMAN\Documents\SharpDevelop Projects\demo\demo\bin\Debug\demo.pdb
+C:\Users\ROMAN\Documents\SharpDevelop Projects\demo\demo\obj\Debug\demo.csprojResolveAssemblyReference.cache
+C:\Users\ROMAN\Documents\SharpDevelop Projects\demo\demo\obj\Debug\demo.answers.resources
+C:\Users\ROMAN\Documents\SharpDevelop Projects\demo\demo\obj\Debug\demo.devdet.resources
+C:\Users\ROMAN\Documents\SharpDevelop Projects\demo\demo\obj\Debug\demo.Form1.resources
+C:\Users\ROMAN\Documents\SharpDevelop Projects\demo\demo\obj\Debug\demo.hints.resources
+C:\Users\ROMAN\Documents\SharpDevelop Projects\demo\demo\obj\Debug\demo.MainForm.resources
+C:\Users\ROMAN\Documents\SharpDevelop Projects\demo\demo\obj\Debug\demo.csproj.GenerateResource.Cache
+C:\Users\ROMAN\Documents\SharpDevelop Projects\demo\demo\obj\Debug\demo.exe
+C:\Users\ROMAN\Documents\SharpDevelop Projects\demo\demo\obj\Debug\demo.pdb
